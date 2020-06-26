@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/simpletest.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/mman.h
+-
+smalloc.h
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/smalloc.h
+
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/smalloc.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/mman.h
+-
+smalloc.h
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/smalloc.h
+
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/smalloc.h
+
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/testhelpers.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/mman.h
+-
+smalloc.h
+/Users/ph/Desktop/UofT/Year 3/CSC209/fartootp/a2/smalloc.h
+
